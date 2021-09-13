@@ -8,13 +8,14 @@ Second round will take part on 10/10/2021. Price of KOLO will be 0.00001 BNB per
 
 Idea of KOLO Token:
 
-Kolo Token (KOLO) has own official faucet (where you can earn free KOLO). 70% of KOLO will be distributed via Faucet, and 70% of Ad Earnings by developers will be used for BuyBack KOLO  (50% will be burned and 50% will be used in Airdrop/Giveaway). If you are a KOLO holder, you will get huge bonuses on Faucet, which can go up to 200%.  When 35% of KOLO token is paid to members, Faucet will reduce reward by half (Halving principle), so if you enter this project early you will be in huge advantage. You can invite members to KOLO Faucet as well and get 50% of their earnings.
+Kolo Token (KOLO) has own official faucet (where you can earn free KOLO). 50% of KOLO will be distributed via Faucet, and 70% of Ad Earnings by developers will be used for BuyBack KOLO  (50% will be burned and 50% will be used in Airdrop/Giveaway). If you are a KOLO holder, you will get huge bonuses on Faucet, which can go up to 200%.  When 25% of KOLO token is paid to members, Faucet will reduce reward by half (Halving principle), so if you enter this project early you will be in huge advantage. You can invite members to KOLO Faucet as well and get 50% of their earnings.
 
 Tokenomics:
 
 Airdrop/Giveaways - 10%
-Distribution via Faucet - 70%
+Distribution via Faucet - 50%
 Token Presale - 20%
+Liquidity - 20%
 
 Faucet earnings:
 
